@@ -2,6 +2,4 @@
 
 ###   Alguns dos indicadores utilizados foram o total de clientes e a média salarial anual, total de clientes por cada estado civil, como a quantidade de filhos e adolescentes em casa pode afetar o total de gasto, como cada nível de escolaridade e estado civil podem afetar os gastos e o total de gasto cada país por ano.
 
-
-
-https://app.powerbi.com/view?r=eyJrIjoiNzhlZDUwMDYtYmE1NC00OGM4LWFkMjEtNWEzNWIxMTZlN2ZjIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9
+## Link do dashboard online - [Campanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiNzhlZDUwMDYtYmE1NC00OGM4LWFkMjEtNWEzNWIxMTZlN2ZjIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9)
