@@ -4,7 +4,7 @@
 
 ## Visão Geral
 
-  Os relatórios incluídos neste repositório foram desenvolvidos para fornecer insights sobre diferentes aspectos de negócios, como vendas, marketing, operações, informaações de rh e etc.
+  Os relatórios incluídos neste repositório foram desenvolvidos para fornecer insights sobre diferentes aspectos de negócios, como vendas, marketing, operações, informações de rh e etc.
   Alguns dos dashboards foram construídos durante o meu estudo no curso sobre Power BI para Business Intelligence e Data Science da empresa Data Science Academy onde aprendi a criar análises estatísticas com as informações e como as organizar para uma compreensão clara e objetiva dos tomadores de decisão.
 
 ## Datasets
